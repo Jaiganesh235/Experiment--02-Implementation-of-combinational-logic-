@@ -54,10 +54,11 @@ Y= A⊕B
 7. Check all the gates following the same procedure.
 
 ## PROGRAM:
+`
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 Developed by: S.JAIGANESH
 RegisterNumber: 212222240037
-
+`
 ```
 module EX2(A,B,C,D,F1);
 input A,B,C,D;
