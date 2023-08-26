@@ -55,9 +55,9 @@ Y= A⊕B
 
 ## PROGRAM:
 ```
-Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-Developed by: S.JAIGANESH
-RegisterNumber: 212222240037
+#Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+#Developed by: S.JAIGANESH
+#RegisterNumber: 212222240037
 
 module EX2(A,B,C,D,F1);
 input A,B,C,D;
