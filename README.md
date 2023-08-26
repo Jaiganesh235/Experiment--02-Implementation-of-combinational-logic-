@@ -54,10 +54,10 @@ Y= A⊕B
 7. Check all the gates following the same procedure.
 
 ## PROGRAM:
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 Developed by: S.JAIGANESH
 RegisterNumber: 212222240037
-*/
+
 ```
 module EX2(A,B,C,D,F1);
 input A,B,C,D;
@@ -82,4 +82,5 @@ endmodule
 ![image](https://github.com/Jaiganesh235/Experiment--02-Implementation-of-combinational-logic-/assets/118657189/9a41696f-fece-4e17-bdf6-9f37a5a6e51a)
 
 ## RESULT:
-Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
+Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
+
